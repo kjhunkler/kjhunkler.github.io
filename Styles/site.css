@@ -1,0 +1,12 @@
+img.Background{
+    width:100%;
+}
+
+img.Tokyo{
+    content:url("../Images/tokyo.jpg")
+}
+
+img.Wall{
+    content:url("../Images/top.jpg")
+}
+
