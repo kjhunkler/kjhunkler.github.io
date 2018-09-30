@@ -2,11 +2,25 @@ img.Background{
     width:100%;
 }
 
-img.Tokyo{
-    content:url("../Images/tokyo.jpg")
+img.one{
+    content:url("../Images/one.jpeg")
 }
 
-img.Wall{
-    content:url("../Images/top.jpg")
+img.two{
+    content:url("../Images/two.jpeg")
 }
+
+img.three{
+    content:url("../Images/three.jpeg")
+}
+
+img.four{
+    content:url("../Images/four.jpeg")
+}
+
+img.five{
+    content:url("../Images/five.jpeg")
+}
+
+
 
